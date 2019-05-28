@@ -1,4 +1,4 @@
-* Custom UI Kits
+# Custom UI Kits
 
 Contains the following UI kits:
   - Custom loading screens for mobile
