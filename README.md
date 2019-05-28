@@ -1,3 +1,5 @@
 * Custom UI Kits
 
-Currently contains a UI kit with custom mobile loading screens for Adobe XD. 
+Contains the following UI kits:
+  - Custom loading screens for mobile
+  - Custom forms for mobile
